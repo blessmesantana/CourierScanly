@@ -1066,7 +1066,7 @@ export async function openArchivePage({ ui, direction }) {
             id: 'buffer',
             title: 'БУФЕР',
             gridClassName: 'is-triple',
-            codes: ['70', '71', '72', '73', '74', '75', '76', '77', '78'].map(getBufferShkCodeEntry),
+            codes: ['69', '70', '71', '72', '73', '74', '75', '76', '77', '78'].map(getBufferShkCodeEntry),
         },
         {
             id: 'crossdock',
